@@ -1,4 +1,4 @@
-# Regress-o-Linear
+# Regressão Linear
 
 Neste exercício, vou construir um modelo usando a técnica de mínimos quadrados para prever o preço de carros usados usando os dados do Used Cars Dataset. Este banco de dados é uma enorme lista com 957 MB de informações de veículos anunciados no site Craigslist.org, incluindo diversos tipos de veículos.
 
